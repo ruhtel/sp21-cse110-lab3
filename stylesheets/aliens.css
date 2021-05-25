@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    margin: auto auto auto 25%;
+}
+
+body {
+    background-color: black;
+    color: rgb(0,255,0);
+    margin-left: 5%;
+    padding: 10px 10px 10px 10px;
+}
+
+div {
+    border-style: dashed;
+    padding-bottom: 10px;
+}
